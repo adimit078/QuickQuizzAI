@@ -24,7 +24,7 @@ def get_grayscale(image):
 def resize(image):
     return  cv.resize(img, (560, 900))
 
-openai.api_key = "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"
+openai.api_key = "CUSTOM_API_KEY"
 
 #text = ocr_core(gray)
 
