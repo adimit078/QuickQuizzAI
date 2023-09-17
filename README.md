@@ -12,13 +12,13 @@ The ChatGPT API, powered by a large language model, generates questions related 
 - Completely Python Built
 
 - OpenCV
-    OpenCV is a python library for computer vision
-    Created custom image preprocessing algorithm to make any text file readable
+    - OpenCV is a python library for computer vision
+    - Created custom image preprocessing algorithm to make any text file readable
 - Optical Character Recognition
-    Python tool Tesseract is an NLP model to detect words from text
-    Fed OpenCV edited images into Tesseract to extract text
+    - Python tool Tesseract is an NLP model to detect words from text
+    - Fed OpenCV edited images into Tesseract to extract text
 - ChatGPT
-    Used OpenAI API to access GPT Large Language Model
-    Generated intelligent questions based on OCR text
+    - Used OpenAI API to access GPT Large Language Model
+    - Generated intelligent questions based on OCR text
 - Gradio
-    Hosted on Gradio, custom python GUI to present machine learning models
+    - Hosted on Gradio, custom python GUI to present machine learning models
