@@ -1,4 +1,6 @@
 # QuickQuizzAI
+# Demo Video: 
+https://www.youtube.com/watch?v=M52GXvyJrJw&t=115s
 
 Ever found yourself struggling to engage with your reading materials? What if there was a way to supercharge your learning experience using the power of AI? This project integrates various technologies to facilitate effortless learning from a wide range of text sources. Simply upload a picture of the reading and whether it be a physical textbook under low lighting or a screenshot from an online pdf, QuickQuizzAI will generate an engaging and pertanent question to reinforce your reading. 
 
