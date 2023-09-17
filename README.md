@@ -8,7 +8,7 @@ Optical Character Recognition (OCR) technology, specifically Tesseract, is used 
 
 The ChatGPT API, powered by a large language model, generates questions related to the extracted text. It automates the creation of quizzes, facilitating interactive learning experiences. Finally, the project is hosted on Gradio, an interactive interface platform for Python machine learning models, ensuring user-friendliness and accessibility. In summary, this project combines Python, OpenCV, OCR (Tesseract), ChatGPT, and Gradio to make learning from text images seamless and adaptable to various sources and quality levels.
 
-#Technology Stack
+# Technology Stack
 - Completely Python Built
 
 - OpenCV
